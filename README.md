@@ -1,5 +1,5 @@
 # TokoAnekaSosis
-1. ijinkan akses untuk membuka toko
+1. ijinkan akses untuk membuka toko<p>
    <img src="https://github.com/Fathlmam/TOKOSOSIS12/blob/master/allow%20device.PNG">
    
 2.halaman untuk menambahkan data<p>
