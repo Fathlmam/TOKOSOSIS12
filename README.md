@@ -1,15 +1,18 @@
 # TokoAnekaSosis
-1.halaman untuk menambahkan data<p>
-  <img src="https://github.com/Fathlmam/TokoSosis/blob/master/add%20data.png">
+1. ijinkan akses untuk membuka toko
+   <img src="https://github.com/Fathlmam/TOKOSOSIS12/blob/master/allow%20device.PNG">
+   
+2.halaman untuk menambahkan data<p>
+  <img src="https://github.com/Fathlmam/TOKOSOSIS12/blob/master/menambahkan%20data.PNG">
   
-2.hasil menambahkan data <p>
-  <img src="https://github.com/Fathlmam/TokoSosis/blob/master/add%20hasil.png">
+3.ijinkan akses untuk membuka kamera <p>
+  <img src="https://github.com/Fathlmam/TOKOSOSIS12/blob/master/allow%20kamera.PNG">
 
-3.mengupdate  data <p>
-  <img src="https://github.com/Fathlmam/TokoSosis/blob/master/h%20update.png">
+4.menampilkan data <p>
+  <img src="https://github.com/Fathlmam/TOKOSOSIS12/blob/master/hasil%20inputan.PNG">
   
-4.hasil mengupdate data <p>
-  <img src="https://github.com/Fathlmam/TokoSosis/blob/master/hasil%20update.png">
+5.mengupdate data <p>
+  <img src="https://github.com/Fathlmam/TOKOSOSIS12/blob/master/mengedit%20data.PNG">
   
-5.hasil delete data <p>
-  <img src="https://github.com/Fathlmam/TokoSosis/blob/master/hasil%20delete.png">
+6.hasil delete data <p>
+  <img src="https://github.com/Fathlmam/TOKOSOSIS12/blob/master/hasil%20menghapus%20data.PNG">
